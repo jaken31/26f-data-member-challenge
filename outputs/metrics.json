@@ -2,21 +2,25 @@
   "MAE":{
     "global median":47332.1663421627,
     "country median":35613.696160432,
+    "Ridge":29761.0511396223,
     "HGB":27807.77064784
   },
   "MedAE":{
     "global median":36289.0,
     "country median":24180.7682419996,
+    "Ridge":18830.6746709114,
     "HGB":17409.3999728199
   },
   "RMSE":{
     "global median":65812.3597612708,
     "country median":52325.9778015518,
+    "Ridge":45850.5064615079,
     "HGB":43296.8856027369
   },
   "R2_log":{
     "global median":-0.008837239,
     "country median":0.3749046475,
+    "Ridge":0.570329295,
     "HGB":0.5983693232
   }
 }
